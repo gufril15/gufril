@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Dosis', sans-serif;
+    font-size: 17px;
+    background-color: #c72a2a;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    color: white;
+    background: #369;
+    box-shadow: -10px 0 10px rgb(0 0 0 / 20%) inset;
+    overflow-x: hidden;
+    transition: max-height 1s linear, max-width 1.3s linear;
+    padding-top: 60px;
+    white-space: nowrap
+}
+
+.sidenav a {
+    text-decoration: none;
+    padding: 8px 8px 8px 20px;
+    font-size: 18px;
+    color: #fff;
+    display: block;
+    transition: max-height 1s linear, max-width 1.3s linear;
+
+}
+
+.sidenav a:after {
+    display: block;
+    width: 15px;
+    height: 2px;
+    background-color: #fff;
+    content: ''
+}
+
+.sidenav a:hover {
+    color: #15ffc6;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    color: #ff4802;
+}
+
+.sidenav .totlS {
+    color: #05f5df;
+    list-style: none
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
+#gfmenu {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    overflow: hidden;
+    font-size: 45px;
+    color: whitesmoke;
+}
+
+ul,
+li {
+    cursor: pointer;
+    padding: 0;
+    list-style: none
+}
+
+img {
+    vertical-align: middle;
+    width: 20%;
+    height: 50%;
+    float: left;
+    border: solid 1px #ccc;
+    margin-right:5px
+}
