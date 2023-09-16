@@ -17,6 +17,7 @@ Like My Work?
 - 💬 &nbsp; Ask me anything [here](https://github.com/gufril15/gufril15/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: admin@gufril.eu.org.
+- 🔗 &nbsp; Site: [gufril.eu.org](https://gufril.eu.org/)
 
 ### My Absolute Favorites:
 
