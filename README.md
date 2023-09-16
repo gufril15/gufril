@@ -1,19 +1,17 @@
 ### Hi there 👋
 
+## Personal
 
-**gufril15/gufril15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visits Badge](https://badges.pufler.dev/visits/gufril15/gufril15)](https://badges.pufler.dev) ![updates](https://badges.pufler.dev/updated/gufril15/gufril15) ![repos](https://badges.pufler.dev/repos/gufril15) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Site: [gufril.eu.org](https://gufril.eu.org)
+- Youtube: [Gusman Pakaya](https://youtube.com/@gusmanpakaya)
+- IRC: irc.gufril.eu.org #gUfriL
 
 
-
-
+### Language
+||||
+|-|-|-|
+|&#9745; Javascript|&#9745; PHP|&#9745; Python|
+|&#9745; TCL |&#9745; C++|
+||||
