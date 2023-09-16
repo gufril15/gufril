@@ -1,7 +1,7 @@
 ## Hey there 👋, I'm [gUfriL!](https://github.com/gufril15/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gUcu_15)
-[![Telegram Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://t.me/gUcu15)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/gUcu15)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/@gusmanpakaya)
 
 Like My Work?
